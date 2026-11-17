@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # Xcode::Install
 
 [![Gem Version](http://img.shields.io/gem/v/xcode-install.svg?style=flat)](http://badge.fury.io/rb/xcode-install) [![CircleCI](https://circleci.com/gh/xcpretty/xcode-install.svg?style=svg)](https://circleci.com/gh/xcpretty/xcode-install)
